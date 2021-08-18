@@ -116,7 +116,7 @@ Contoh : !nama Stalin
 🐼 _*!pasangan <namamu & pasangan>*_
 _${BotName}_🍄akan mencarikan kecocokan antara kamu dan pasanganmu
 
-Contoh : !pasangan covad & covid
+Contoh : !pasangan GULA & KOPI
 
 
 ⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇
@@ -124,12 +124,12 @@ FOLLOW INSTAGRAM SAYA
 ${instagram}
 
 • TELEGRAM : ${telegram}
-• Youtube : R E U Z
-• WA : 081271699856
+• Youtube : SIEMENSFROG CHANEL
+• WA : 081219790454
 • Pasang Iklan? Chat Whatsapp.
 
-📺 *IKLAN* : *YOUTUBE REUZ*
-🏚SELALU GUNAKAN MASKER SAAT KELUAR!🏚
-🏚SEMOGA SEHAT SELALU!🏚
+📺 *IKLAN* : *YOUTUBE SIEMENSFROG CHANNEL*
+🏚 Ingat wajib ngopi 3x sehari.😂
+🏚 JANGAN LUPA BACA DOA SEBELUM BEKERJA 🤗
 `
 }
